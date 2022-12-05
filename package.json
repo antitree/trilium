@@ -22,7 +22,7 @@
   "dependencies": {
     "async-mutex": "0.1.4",
     "axios": "0.19.0",
-    "body-parser": "1.19.0",
+    "body-parser": "1.19.2",
     "cls-hooked": "4.2.2",
     "commonmark": "0.29.0",
     "cookie-parser": "1.4.4",
@@ -35,7 +35,7 @@
     "electron-find": "1.0.6",
     "electron-spellchecker": "2.2.0",
     "electron-window-state": "5.0.3",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-session": "1.17.0",
     "file-type": "12.4.0",
     "fs-extra": "8.1.0",
