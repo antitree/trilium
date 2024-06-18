@@ -71,10 +71,10 @@
     "sqlite3": "4.1.0",
     "string-similarity": "3.0.0",
     "tar-stream": "2.1.0",
-    "turndown": "5.0.3",
+    "turndown": "7.0.0",
     "turndown-plugin-gfm": "1.0.2",
     "unescape": "1.0.1",
-    "ws": "7.2.0",
+    "ws": "8.17.1",
     "xml2js": "0.4.22"
   },
   "devDependencies": {
